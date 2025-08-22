@@ -209,4 +209,4 @@ If you encounter any issues or have questions, please:
 - [ ] Unit and integration tests
 - [ ] Docker containerization
 
-Project URL : https://github.com/ksudip17/blog-api
+Project URL : [https://github.com/ksudip17/blog-api](https://roadmap.sh/projects/blogging-platform-api)
